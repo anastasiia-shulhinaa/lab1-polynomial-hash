@@ -1,0 +1,5 @@
+﻿# only the program is committed
+*
+!.gitignore
+!src/
+!src/*.py
