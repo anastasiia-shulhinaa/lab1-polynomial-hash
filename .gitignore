@@ -1,5 +1,15 @@
-﻿# only the program is committed
+﻿# only code is committed: the programs, and the tests, tools and demo inputs of lab 2
 *
 !.gitignore
 !src/
 !src/*.py
+!Lab2/
+!Lab2/__init__.py
+!Lab2/bloom/
+!Lab2/bloom/*.py
+!Lab2/tools/
+!Lab2/tools/*.py
+!Lab2/tests/
+!Lab2/tests/*.py
+!Lab2/demo/
+!Lab2/demo/*.txt

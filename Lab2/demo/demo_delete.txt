@@ -1,0 +1,10 @@
++ apple
++ pear
++ apple
+? apple
+- apple
+? apple
+? pear
+- grape
+? pear
+#

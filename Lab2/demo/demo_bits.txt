@@ -1,0 +1,15 @@
++ apple
++ pear
++ plum
++ cherry
++ grape
++ lemon
++ mango
++ peach
++ melon
++ kiwi
+? apple
+? banana
+? orange
+? fig
+#

@@ -1,0 +1,8 @@
++ apple
+* pear
++ pe4r
++
++ abcdefghijklmnop
+? apple
+? Apple
+#
